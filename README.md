@@ -460,6 +460,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.worldvectorlogo.com/logos/thales-1.svg" height="14"/> [CAKM](https://github.com/sanyambassi/thales-cdsp-cakm-mcp-server) - MCP server for Thales CDSP CAKM integration, enabling secure key management, cryptographic operations, and compliance monitoring through AI assistants for Ms SQL and Oracle Databases.
 - <img src="https://cdn.worldvectorlogo.com/logos/thales-1.svg" height="14"/> [CRDP](https://github.com/sanyambassi/thales-cdsp-crdp-mcp-server) - MCP server for Thales CipherTrust Manager RestFul Data Protection service.
 - <img src="https://cdn.worldvectorlogo.com/logos/thales-1.svg" height="14"/> [CSM](https://github.com/sanyambassi/thales-cdsp-csm-mcp-server) - MCP server for Thales CipherTrust Secrets Management
+- <img src="https://github.com/favicon.ico" height="14"/> [HALO (GEMMA-by-GOOGLE)](https://github.com/XenoCoreGiger31/GEMMA-by-GOOGLE) [![HALO (GEMMA-by-GOOGLE) MCP server](https://glama.ai/mcp/servers/XenoCoreGiger31/GEMMA-by-GOOGLE/badges/score.svg)](https://glama.ai/mcp/servers/XenoCoreGiger31/GEMMA-by-GOOGLE) - Fully local, autonomous AI penetration-testing agent; a local Gemma model drives a 29-tool MCP server through recon, attack, and reporting.
 
 <br />
 
